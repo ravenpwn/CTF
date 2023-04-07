@@ -1,5 +1,5 @@
 # CTF
 CTF writeups and analysis
-'''Python
+```Python
 print("Hello")
-'''
+```
